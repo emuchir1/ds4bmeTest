@@ -1,2 +1,1 @@
-# ds4bmeTest
-Assignment 1 new repository file
+We doing changes to the README markdown to give a detailed explanation on qhat is takinf place wit the changes
